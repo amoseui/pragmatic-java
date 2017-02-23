@@ -1,3 +1,2 @@
-rootProject.name = 'pragmaticjava'
+rootProject.name = 'ruffjava'
 include 'singleton'
-

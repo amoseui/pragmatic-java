@@ -1,4 +1,4 @@
-package com.amoseui.pragmaticjava.singleton;
+package com.amoseui.ruffjava.singleton;
 
 public class InitializationOnDemandHolderIdiomTest extends SingletonTestBase<InitializationOnDemandHolderIdiom> {
 
