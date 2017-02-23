@@ -1,4 +1,4 @@
-package com.amoseui.pragmaticjava.singleton;
+package com.amoseui.ruffjava.singleton;
 
 public class EnumInitializationTest extends SingletonTestBase<EnumInitialization> {
 
